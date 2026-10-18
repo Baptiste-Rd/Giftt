@@ -6,7 +6,7 @@ Ce dépôt public ne contient que les versions publiées de l'application Androi
 
 ## Installer
 
-1. Télécharge `Giftt.apk` depuis la [dernière version](https://github.com/Baptiste-Rd/Giftt/releases/latest).
+1. Télécharge `Giftt.apk` depuis la [ce lien](https://github.com/Baptiste-Rd/Giftt/raw/main/Giftt.apk).
 2. Ouvre le fichier et autorise l'installation si Android le demande.
 3. Si « Appli bloquée » s'affiche : « Plus de détails » puis « Installer quand même ».
 4. Ouvre Giftt : l'app te guide pour le reste (SMS, notifications, mises à jour).
